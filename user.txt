@@ -1,0 +1,3 @@
+admin;password
+jimbo;2112
+yoshi;croc

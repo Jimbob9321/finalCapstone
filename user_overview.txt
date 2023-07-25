@@ -1,0 +1,23 @@
+Total users:                3
+
+User: admin has 3 tasks remaining 
+
+This accounts for 60% of total tasks.
+Percentage completed:           33%
+Percentage left to complete:    66%
+Percentage overdue:             33%
+
+User: jimbo has 1 tasks remaining 
+
+This accounts for 20% of total tasks.
+Percentage completed:           0%
+Percentage left to complete:    100%
+Percentage overdue:             100%
+
+User: yoshi has 1 tasks remaining 
+
+This accounts for 20% of total tasks.
+Percentage completed:           100%
+Percentage left to complete:    0%
+Percentage overdue:             0%
+
